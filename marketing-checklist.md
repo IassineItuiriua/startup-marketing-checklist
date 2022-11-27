@@ -121,7 +121,7 @@ Marketing starts long before you launch. Market research, planning, and preparat
   - [ ] YouTube
 - [ ] Standardize profile image, background photo, links and call to action across social channels.
 - [ ] Consider putting premium content behind "[pay with a tweet](https://www.paywithatweet.com/)".
-
+- [ ] WhatsApp
 ## Post-Launch
 
 Once you launch, the real fun begins! Whether you go out with a bang or you gradually grow your userbase over months, getting customer feedback is essential for building a successful startup.
